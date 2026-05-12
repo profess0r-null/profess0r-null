@@ -1,7 +1,13 @@
 # 👋 Hi, I'm Sakibul Hasan Talukder
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Red+Team+Learner;Bug+Bounty+Beginner;Python+Learner" alt="Typing SVG" />
+
+![](https://komarev.com/ghpvc/?username=profess0r-null&color=3b82f6&style=for-the-badge)
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Red+Team+Learner;Bug+Bounty+Beginner;Web+Security+Explorer" alt="Typing SVG" />
+
 </div>
 
 ---
@@ -22,7 +28,7 @@ and learning how systems and security mechanisms work.
 
 <div align="center">
 
-🔴 Currently Learning: Red Teaming • Web Security • Python  
+🔴 Currently Learning: Red Teaming • Web Security • Networking  
 🎯 Goal: Become a skilled Red Teamer & Security Researcher
 
 </div>
@@ -33,10 +39,12 @@ and learning how systems and security mechanisms work.
 
 <div align="center">
 
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 </div>
 
@@ -46,15 +54,11 @@ and learning how systems and security mechanisms work.
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=profess0r-null&color=3b82f6&style=flat-square)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=profess0r-null&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <br><br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=profess0r-null&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
-
-<br><br>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=profess0r-null&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://streak-stats.demolab.com?user=profess0r-null&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -90,7 +94,7 @@ A modern expense tracking application with a clean UI.
 
 <div align="center">
 
-**Tech:** HTML • CSS • JavaScript  
+**Tech:** HTML • CSS • JavaScript • Supabase  
 
 [🌐 Visit Site](https://hisabtracker.profess0r-null.xyz/) • [💻 Source Code](https://github.com/profess0r-null/hisabtrackerpro)
 
@@ -104,7 +108,6 @@ A modern expense tracking application with a clean UI.
 
 🔴 Red Teaming  
 🛡️ Web Application Security  
-🐍 Python Programming  
 🐧 Linux Fundamentals  
 🌐 Networking Basics  
 
