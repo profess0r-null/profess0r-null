@@ -75,30 +75,53 @@ and learning how systems and security mechanisms work.
 
 <div align="center">
 
-<a href="https://hisabtracker.profess0r-null.xyz/">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=profess0r-null&repo=hisabtrackerpro&theme=tokyonight&hide_border=true" />
-</a>
+# 📊 Hisab Tracker PRO
 
-<br><br>
+### Smart Expense & Due Tracking Web Application
 
-<b>Hisab Tracker PRO</b>
-
-<br>
-
-Modern expense tracking web app with clean UI & realtime database support.
-
-<br><br>
-
-<a href="https://hisabtracker.profess0r-null.xyz/">
-  <img src="https://img.shields.io/badge/Live_Demo-3b82f6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/profess0r-null/hisabtrackerpro">
-  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TYPE-FULL_STACK_PROJECT-blue?style=for-the-badge" />
 
 </div>
 
+<br>
+
+### ✨ Features
+
+- 💸 Track income & expenses easily
+- 📒 Manage personal হিসাব / due records
+- ☁️ Cloud database integration
+- 📱 Responsive modern UI
+- ⚡ Fast & lightweight experience
+- 🔐 Secure data handling
+- 🌙 Clean dark interface
+
+---
+
+### 🛠️ Built With
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://hisabtracker.profess0r-null.xyz/">
+  <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-2563eb?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/profess0r-null/hisabtrackerpro">
+  <img src="https://img.shields.io/badge/💻_SOURCE_CODE-111827?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 ---
 
 ## 🎓 Currently Learning
