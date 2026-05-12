@@ -2,10 +2,11 @@
 
 <div align="center">
 
-<br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Web+Security+Learner" alt="Typing SVG" />
 
 </div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -17,19 +18,17 @@ focused on **Cybersecurity**, **Red Teaming**, and **Web Security**.
 I enjoy exploring vulnerabilities, practicing ethical hacking labs,  
 and learning how systems and security mechanisms work.
 
-</div>
-
 <br>
-
-<div align="center">
 
 🔴 Currently Focused On: Red Teaming • Web Security • Networking  
 🎯 Goal: Become a skilled Security Researcher & Red Team Operator
 
 </div>
 
+---
+
 ## 💻 Tech Stack
-<br>
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
@@ -41,6 +40,18 @@ and learning how systems and security mechanisms work.
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 </div>
+
+---
+
+## 📊 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=profess0r-null&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -54,27 +65,29 @@ and learning how systems and security mechanisms work.
 
 </div>
 
+---
+
 ## 🚀 Featured Project
 
 <div align="center">
 
 ### 📊 Hisab Tracker PRO
 
-<p align="center">
 Modern expense & due tracking web application.
-</p>
 
-<div align="center">
+<br>
 
 <a href="https://hisabtracker.profess0r-null.xyz/">
   <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-2563eb?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/profess0r-null/hisabtrackerpro">
-  <img src="https://img.shields.io/badge/_SOURCE_CODE-111827?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/💻_SOURCE_CODE-111827?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
+
+---
 
 ## 🎓 Currently Learning
 
@@ -84,9 +97,11 @@ Modern expense & due tracking web application.
 🌐 Web Application Security  
 🐧 Linux Fundamentals  
 📡 Networking & Reconnaissance  
-⚔️ Ethical Hacking Labs  
+⚔️ Ethical Hacking Labs
 
 </div>
+
+---
 
 ## 📚 Learning Platforms
 
@@ -100,25 +115,36 @@ Modern expense & due tracking web application.
 
 </div>
 
+---
+
 ## 🔗 Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/profess0r-null)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/profess0r_null)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/profess0r.null)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:profess0r.null.xyz@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:sakibulhasantalukder2006@gmail.com)
+
+<br><br>
+
+**Discord:** `profess0r.null`
 
 </div>
 
-<div align="center">
+---
 
-![](https://komarev.com/ghpvc/?username=profess0r-null&color=3b82f6&style=flat-square)
+<div align="center">
 
 ⭐ If you find my projects helpful, consider giving them a star!
 
-<br>
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=profess0r-null&color=3b82f6&style=flat-square)
+
+<br><br>
 
 🟢 Actively Exploring Cybersecurity & Red Teaming
 
 </div>
+```
