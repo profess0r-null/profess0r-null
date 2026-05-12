@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Red+Team+Learner;Bug+Bounty+Beginner;Web+Security+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Cybersecurity+Researcher;Red+Team+Operator;Web+Security+Specialist;Linux+%26+Networking+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -17,7 +17,7 @@
 <div align="center">
 
 I'm a Computer Science student at **Cumilla Polytechnic Institute**  
-currently focused on learning **Cybersecurity**, **Red Teaming**, and **Web Security**.
+focused on **Cybersecurity**, **Red Teaming**, and **Web Security**.
 
 I enjoy exploring vulnerabilities, practicing ethical hacking labs,  
 and learning how systems and security mechanisms work.
@@ -28,8 +28,8 @@ and learning how systems and security mechanisms work.
 
 <div align="center">
 
-🔴 Currently Learning: Red Teaming • Web Security • Networking  
-🎯 Goal: Become a skilled Red Teamer & Security Researcher
+🔴 Currently Focused On: Red Teaming • Web Security • Networking  
+🎯 Goal: Become a skilled Security Researcher & Red Team Operator
 
 </div>
 
@@ -45,6 +45,7 @@ and learning how systems and security mechanisms work.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 </div>
 
@@ -54,11 +55,9 @@ and learning how systems and security mechanisms work.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=profess0r-null&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=profess0r-null&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
 
-<br><br>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=profess0r-null&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=profess0r-null&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -82,21 +81,9 @@ and learning how systems and security mechanisms work.
 
 <div align="center">
 
-### 📊 Hisab Tracker PRO
-
-A modern expense tracking application with a clean UI.
-
-</div>
-
-- Real-time data management
-- Responsive design
-- Easy to use
-
-<div align="center">
-
-**Tech:** HTML • CSS • JavaScript • Supabase  
-
-[🌐 Visit Site](https://hisabtracker.profess0r-null.xyz/) • [💻 Source Code](https://github.com/profess0r-null/hisabtrackerpro)
+<a href="https://hisabtracker.profess0r-null.xyz/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=profess0r-null&repo=hisabtrackerpro&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -106,10 +93,11 @@ A modern expense tracking application with a clean UI.
 
 <div align="center">
 
-🔴 Red Teaming  
-🛡️ Web Application Security  
+🛡️ Red Team Operations  
+🌐 Web Application Security  
 🐧 Linux Fundamentals  
-🌐 Networking Basics  
+📡 Networking & Reconnaissance  
+⚔️ Ethical Hacking Labs  
 
 </div>
 
@@ -133,10 +121,10 @@ A modern expense tracking application with a clean UI.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/profess0r-null)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram)](https://t.me/profess0r_null)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail)](mailto:sakibulhasantalukder2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/profess0r-null)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/profess0r_null)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:sakibulhasantalukder2006@gmail.com)
 
 </div>
 
@@ -148,6 +136,6 @@ A modern expense tracking application with a clean UI.
 
 <br>
 
-🟢 Actively Learning Cybersecurity & Red Teaming
+🟢 Actively Exploring Cybersecurity & Red Teaming
 
 </div>
