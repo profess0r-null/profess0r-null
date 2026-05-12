@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 <div align="center">
@@ -25,8 +23,6 @@ and learning how systems and security mechanisms work.
 
 </div>
 
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -41,8 +37,6 @@ and learning how systems and security mechanisms work.
 
 </div>
 
----
-
 ## 📊 Activity
 
 <div align="center">
@@ -50,8 +44,6 @@ and learning how systems and security mechanisms work.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=profess0r-null&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -64,8 +56,6 @@ and learning how systems and security mechanisms work.
 </picture>
 
 </div>
-
----
 
 ## 🚀 Featured Project
 
@@ -87,8 +77,6 @@ Modern expense & due tracking web application.
 
 </div>
 
----
-
 ## 🎓 Currently Learning
 
 <div align="center">
@@ -100,8 +88,6 @@ Modern expense & due tracking web application.
 ⚔️ Ethical Hacking Labs
 
 </div>
-
----
 
 ## 📚 Learning Platforms
 
@@ -115,36 +101,32 @@ Modern expense & due tracking web application.
 
 </div>
 
----
-
 ## 🔗 Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/profess0r-null)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/profess0r_null)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:sakibulhasantalukder2006@gmail.com)
 
-<br><br>
+<br>
 
 **Discord:** `profess0r.null`
 
 </div>
 
----
+
 
 <div align="center">
 
 ⭐ If you find my projects helpful, consider giving them a star!
 
-<br><br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=profess0r-null&color=3b82f6&style=flat-square)
 
-<br><br>
+<br>
 
 🟢 Actively Exploring Cybersecurity & Red Teaming
 
 </div>
-```
