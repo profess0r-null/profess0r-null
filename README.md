@@ -24,6 +24,7 @@ and learning how systems and security mechanisms work.
 </div>
 
 ## 💻 Tech Stack
+<br>
 
 <div align="center">
 
@@ -34,14 +35,6 @@ and learning how systems and security mechanisms work.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-
-</div>
-
-## 📊 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=profess0r-null&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -90,6 +83,7 @@ Modern expense & due tracking web application.
 </div>
 
 ## 📚 Learning Platforms
+<br>
 
 <div align="center">
 
@@ -109,23 +103,11 @@ Modern expense & due tracking web application.
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/profess0r_null)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:sakibulhasantalukder2006@gmail.com)
 
-<br>
-
-**Discord:** `profess0r.null`
-
-</div>
-
-
-
 <div align="center">
 
 ⭐ If you find my projects helpful, consider giving them a star!
 
-<br>
-
 ![](https://komarev.com/ghpvc/?username=profess0r-null&color=3b82f6&style=flat-square)
-
-<br>
 
 🟢 Actively Exploring Cybersecurity & Red Teaming
 
