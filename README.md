@@ -7,8 +7,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 <div align="center">
@@ -30,8 +28,6 @@ and learning how systems and security mechanisms work.
 
 </div>
 
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -45,8 +41,6 @@ and learning how systems and security mechanisms work.
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 </div>
-
----
 
 ## 📊 Activity
 
@@ -69,8 +63,6 @@ and learning how systems and security mechanisms work.
 
 </div>
 
----
-
 ## 🚀 Featured Project
 
 <div align="center">
@@ -80,19 +72,10 @@ and learning how systems and security mechanisms work.
 Modern expense & due tracking web application.
 
 <br>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-<br><br>
-
 <a href="https://hisabtracker.profess0r-null.xyz/">🌐 Live Demo</a> •
 <a href="https://github.com/profess0r-null/hisabtrackerpro">💻 Source Code</a>
 
 </div>
----
 
 ## 🎓 Currently Learning
 
@@ -106,8 +89,6 @@ Modern expense & due tracking web application.
 
 </div>
 
----
-
 ## 📚 Learning Platforms
 
 <div align="center">
@@ -120,8 +101,6 @@ Modern expense & due tracking web application.
 
 </div>
 
----
-
 ## 🔗 Connect
 
 <div align="center">
@@ -132,8 +111,6 @@ Modern expense & due tracking web application.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:sakibulhasantalukder2006@gmail.com)
 
 </div>
-
----
 
 <div align="center">
 
