@@ -46,7 +46,6 @@ I'm a Computer Science student at **Cumilla Polytechnic Institute** learning web
 </picture>
 
 </div>
----
 
 ## 📈 Total Contributions
 
