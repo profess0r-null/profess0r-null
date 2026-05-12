@@ -42,14 +42,6 @@ and learning how systems and security mechanisms work.
 
 </div>
 
-## 📊 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=profess0r-null&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -68,13 +60,20 @@ and learning how systems and security mechanisms work.
 
 ### 📊 Hisab Tracker PRO
 
+<p align="center">
 Modern expense & due tracking web application.
+</p>
+
+<div align="center">
+
 <a href="https://hisabtracker.profess0r-null.xyz/">
   <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-2563eb?style=for-the-badge"/>
 </a>
+
 <a href="https://github.com/profess0r-null/hisabtrackerpro">
   <img src="https://img.shields.io/badge/💻_SOURCE_CODE-111827?style=for-the-badge&logo=github"/>
 </a>
+
 </div>
 
 ## 🎓 Currently Learning
