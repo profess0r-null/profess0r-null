@@ -69,10 +69,12 @@ and learning how systems and security mechanisms work.
 ### 📊 Hisab Tracker PRO
 
 Modern expense & due tracking web application.
-
-<a href="https://hisabtracker.profess0r-null.xyz/">🌐 Live Demo</a> •
-<a href="https://github.com/profess0r-null/hisabtrackerpro">💻 Source Code</a>
-
+<a href="https://hisabtracker.profess0r-null.xyz/">
+  <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-2563eb?style=for-the-badge"/>
+</a>
+<a href="https://github.com/profess0r-null/hisabtrackerpro">
+  <img src="https://img.shields.io/badge/💻_SOURCE_CODE-111827?style=for-the-badge&logo=github"/>
+</a>
 </div>
 
 ## 🎓 Currently Learning
