@@ -71,7 +71,7 @@ Modern expense & due tracking web application.
 </a>
 
 <a href="https://github.com/profess0r-null/hisabtrackerpro">
-  <img src="https://img.shields.io/badge/💻_SOURCE_CODE-111827?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/_SOURCE_CODE-111827?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
