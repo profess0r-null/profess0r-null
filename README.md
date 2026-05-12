@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Sakibul Hasan Talukder
 
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Web+Security+Learner" alt="Typing SVG" />
-
 </div>
 
 ## 👨‍💻 About Me
