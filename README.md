@@ -3,7 +3,7 @@
 <div align="center">
 
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Cybersecurity+Anthusiast;Web+Security+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Web+Security+Learner" alt="Typing SVG" />
 
 </div>
 
@@ -75,51 +75,21 @@ and learning how systems and security mechanisms work.
 
 <div align="center">
 
-# 📊 Hisab Tracker PRO
+### 📊 Hisab Tracker PRO
 
-### Smart Expense & Due Tracking Web Application
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TYPE-FULL_STACK_PROJECT-blue?style=for-the-badge" />
-
-</div>
+Modern expense & due tracking web application.
 
 <br>
-
-### ✨ Features
-
-- 💸 Track income & expenses easily
-- 📒 Manage personal হিসাব / due records
-- ☁️ Cloud database integration
-- 📱 Responsive modern UI
-- ⚡ Fast & lightweight experience
-- 🔐 Secure data handling
-- 🌙 Clean dark interface
-
----
-
-### 🛠️ Built With
-
-<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-<a href="https://hisabtracker.profess0r-null.xyz/">
-  <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-2563eb?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/profess0r-null/hisabtrackerpro">
-  <img src="https://img.shields.io/badge/💻_SOURCE_CODE-111827?style=for-the-badge&logo=github"/>
-</a>
+<a href="https://hisabtracker.profess0r-null.xyz/">🌐 Live Demo</a> •
+<a href="https://github.com/profess0r-null/hisabtrackerpro">💻 Source Code</a>
 
 </div>
 ---
