@@ -49,7 +49,6 @@ and learning how systems and security mechanisms work.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=profess0r-null&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
----
 
 ## 🐍 Contribution Snake
 
@@ -71,7 +70,6 @@ and learning how systems and security mechanisms work.
 
 Modern expense & due tracking web application.
 
-<br>
 <a href="https://hisabtracker.profess0r-null.xyz/">🌐 Live Demo</a> •
 <a href="https://github.com/profess0r-null/hisabtrackerpro">💻 Source Code</a>
 
