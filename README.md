@@ -51,16 +51,13 @@ and learning how systems and security mechanisms work.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=profess0r-null&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=profess0r-null&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=profess0r-null&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -82,7 +79,25 @@ and learning how systems and security mechanisms work.
 <div align="center">
 
 <a href="https://hisabtracker.profess0r-null.xyz/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=profess0r-null&repo=hisabtrackerpro&theme=tokyonight&hide_border=true" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=profess0r-null&repo=hisabtrackerpro&theme=tokyonight&hide_border=true" />
+</a>
+
+<br><br>
+
+<b>Hisab Tracker PRO</b>
+
+<br>
+
+Modern expense tracking web app with clean UI & realtime database support.
+
+<br><br>
+
+<a href="https://hisabtracker.profess0r-null.xyz/">
+  <img src="https://img.shields.io/badge/Live_Demo-3b82f6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/profess0r-null/hisabtrackerpro">
+  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -131,6 +146,8 @@ and learning how systems and security mechanisms work.
 ---
 
 <div align="center">
+
+![](https://komarev.com/ghpvc/?username=profess0r-null&color=3b82f6&style=flat-square)
 
 ⭐ If you find my projects helpful, consider giving them a star!
 
