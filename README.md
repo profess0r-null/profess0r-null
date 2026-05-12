@@ -2,11 +2,9 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=profess0r-null&color=3b82f6&style=for-the-badge)
-
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Cybersecurity+Researcher;Red+Team+Operator;Web+Security+Specialist;Linux+%26+Networking+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Cybersecurity+Anthusiast;Web+Security+Learner" alt="Typing SVG" />
 
 </div>
 
