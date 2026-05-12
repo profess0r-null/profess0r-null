@@ -39,10 +39,13 @@ I'm a Computer Science student at **Cumilla Polytechnic Institute** learning web
 
 <div align="center">
 
-![GitHub Snake Light](https://github.com/profess0r-null/profess0r-null/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/profess0r-null/profess0r-null/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/profess0r-null/profess0r-null/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/profess0r-null/profess0r-null/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
-
 ---
 
 ## 📈 Total Contributions
