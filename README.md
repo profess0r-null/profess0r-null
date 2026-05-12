@@ -16,8 +16,6 @@ focused on **Cybersecurity**, **Red Teaming**, and **Web Security**.
 I enjoy exploring vulnerabilities, practicing ethical hacking labs,  
 and learning how systems and security mechanisms work.
 
-<br>
-
 🔴 Currently Focused On: Red Teaming • Web Security • Networking  
 🎯 Goal: Become a skilled Security Researcher & Red Team Operator
 
