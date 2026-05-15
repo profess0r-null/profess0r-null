@@ -54,9 +54,6 @@ and learning how systems and security mechanisms work.
 ### 📊 Hisab Tracker PRO
 
 Modern expense & due tracking web application.
-
-<br>
-
 <a href="https://hisabtracker.profess0r-null.xyz/">
   <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-2563eb?style=for-the-badge"/>
 </a>
@@ -67,6 +64,7 @@ Modern expense & due tracking web application.
 
 </div>
 <div align="center">
+<br>
   
 ![](https://komarev.com/ghpvc/?username=profess0r-null&color=3b82f6&style=flat-square)
 </div>
