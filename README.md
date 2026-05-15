@@ -66,19 +66,6 @@ Modern expense & due tracking web application.
 </a>
 
 </div>
-
-## 🎓 Currently Learning
-
-<div align="center">
-
-🛡️ Red Team Operations  
-🌐 Web Application Security  
-🐧 Linux Fundamentals  
-📡 Networking & Reconnaissance  
-⚔️ Ethical Hacking Labs
-
-</div>
-
 ## 📚 Learning Platforms
 <br>
 
@@ -101,11 +88,6 @@ Modern expense & due tracking web application.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:sakibulhasantalukder2006@gmail.com)
 
 <div align="center">
-
-⭐ If you find my projects helpful, consider giving them a star!
-
+  
 ![](https://komarev.com/ghpvc/?username=profess0r-null&color=3b82f6&style=flat-square)
-
-🟢 Actively Exploring Cybersecurity & Red Teaming
-
 </div>
