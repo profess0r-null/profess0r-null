@@ -66,27 +66,6 @@ Modern expense & due tracking web application.
 </a>
 
 </div>
-## 📚 Learning Platforms
-<br>
-
-<div align="center">
-
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme)
-![HackerOne](https://img.shields.io/badge/HackerOne-113F1F?style=flat-square&logo=hackerone)
-![BugCrowd](https://img.shields.io/badge/BugCrowd-FF552E?style=flat-square&logo=bugcrowd)
-![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium)
-
-</div>
-
-## 🔗 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/profess0r-null)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/profess0r_null)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:sakibulhasantalukder2006@gmail.com)
-
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=profess0r-null&color=3b82f6&style=flat-square)
